@@ -111,7 +111,8 @@ canvas {
 
 @media (max-width: 768px) {
     body {
-        background: linear-gradient(100deg,  yellow, green, greenyellow);
+        background: linear-gradient(100deg,  yellow, blue
+        , greenyellow);
     }
 
    
